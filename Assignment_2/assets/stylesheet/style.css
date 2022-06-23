@@ -70,3 +70,15 @@ footer{
 	text-align: center;
 	font-size: 24px;
 }
+#aboutbody{
+	background-color: blanchedalmond;
+}
+#browsebody{
+	background-color: darkcyan;
+}
+#indexbody{
+	background-color: darkslategrey;
+}
+#shopbody{
+	background-color: lawngreen;
+}
